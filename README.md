@@ -57,3 +57,4 @@ ABAAB
 - [c910335](https://github.com/c910335) Tatsujin Chin - creator, maintainer
 - [david50407](https://github.com/david50407) David Kuo - C++17
 - [sharknevercries](https://github.com/sharknevercries) ZhengYuan Lee - C#
+- [chuanchan1116](https://github.com/chuanchan1116) William Tsai - Go

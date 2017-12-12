@@ -9,6 +9,7 @@ env:
 before_install:
   - brew update
   - brew install llvm mono
+  - eval "$(gimme 1.9)"
 install: make clean build
 
 script: make test
